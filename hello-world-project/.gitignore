@@ -1,5 +1,0 @@
-#Intellij folders
-.idea/
-#contains jar files
-out/
-*.iml
