@@ -1,2 +1,1 @@
-This project is demo for git commands
-
+This project is demo for git commands.
